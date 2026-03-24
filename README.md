@@ -1,25 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=Raman%20Bhandari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Educational%20Tech%20Specialist&descSize=18&descAlignY=55" width="100%"/>
+  <!-- Video Header with Your Image/Video -->
+  <video autoplay loop muted playsinline width="100%">
+    <source src="https://raw.githubusercontent.com/ramanbhandari7/ramanbhandari7/main/assets/header-video.mp4" type="video/mp4">
+    <!-- Fallback image if video doesn't load -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=Raman%20Bhandari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Educational%20Tech%20Specialist&descSize=18&descAlignY=55" width="100%"/>
+  </video>
 </div>
 
 <!-- Social Badges with Modern Style -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/raman-bhandari-942554247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  <a href="https://www.linkedin.com/in/raman-bhandari-942554247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@vadazvlogs">
+  <a href="https://www.youtube.com/@vadazvlogs" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@ramanbhandari007">
+  <a href="https://www.tiktok.com/@ramanbhandari007" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="mailto:ramanbhandari7@outlook.com">
+  <a href="mailto:ramanbhandari7@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://github.com/ramanbhandari7">
+  <a href="https://github.com/ramanbhandari7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://ramanbhandari.com.np">
+  <a href="https://ramanbhandari.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
@@ -47,10 +52,10 @@
         </p>
         <ul>
           <li>🎓 <b>Educational Tech Specialist</b> — Creating modern websites for schools & colleges</li>
-          <li>🚀 <b>Founder</b> of <a href="https://ramanbhandari.com.np">Digital Hub Online</a> — Digital facilitation platform for Nepal</li>
+          <li>🚀 <b>Founder</b> of <a href="https://ramanbhandari.com.np" target="_blank">Digital Hub Online</a> — Digital facilitation platform for Nepal</li>
           <li>📊 <b>Data-Driven</b> — 10+ years of experience in inventory & logistics</li>
           <li>🌍 <b>FIFA World Cup 2022 Volunteer</b> — Global teamwork experience</li>
-          <li>🎥 <b>Content Creator</b> — <a href="https://www.youtube.com/@vadazvlogs">Vadaz Vlogs</a> sharing tech & lifestyle</li>
+          <li>🎥 <b>Content Creator</b> — <a href="https://www.youtube.com/@vadazvlogs" target="_blank">Vadaz Vlogs</a> sharing tech & lifestyle</li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -86,10 +91,10 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
         <p align="center">
-          <a href="https://github.com/ramanbhandari7/Digital-Hub-Online-Nepal">
+          <a href="https://github.com/ramanbhandari7/Digital-Hub-Online-Nepal" target="_blank">
             <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://ramanbhandari.com.np">
+          <a href="https://ramanbhandari.com.np" target="_blank">
             <img src="https://img.shields.io/badge/🌐_Live_Demo-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
           </a>
         </p>
@@ -109,11 +114,14 @@
           <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=flat-square&logo=figma&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://minilandacademy.edu.np">
+          <a href="https://github.com/ramanbhandari7/minilandacademy" target="_blank">
             <img src="https://img.shields.io/badge/Miniland_Academy-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://sarwajanikschool.edu.np">
+          <a href="https://github.com/ramanbhandari7/sarwajanikschool.edu.np" target="_blank">
             <img src="https://img.shields.io/badge/Sarwajanik_School-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://github.com/ramanbhandari7/saraswatimavi" target="_blank">
+            <img src="https://img.shields.io/badge/Saraswati_Mavi-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
@@ -134,7 +142,7 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
         <p align="center">
-          <a href="https://hemarai.com.np">
+          <a href="https://github.com/ramanbhandari7/hemarai.com.np" target="_blank">
             <img src="https://img.shields.io/badge/Hema_Rai_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
@@ -210,19 +218,39 @@
 
 ---
 
-<!-- Connect Section with Icons -->
+<!-- Connect Section with Verified Links -->
 <h2 align="center">
   🤝 Let's Connect
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/>
 </h2>
 
 <p align="center">
-  <a href="https://ramanbhandari.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-ramanbhandari.com.np-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://ramanbhandari.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-ramanbhandari.com.np-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <br/>
-  <a href="mailto:ramanbhandari7@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ramanbhandari7@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="mailto:ramanbhandari7@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-ramanbhandari7@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raman-bhandari-942554247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Raman_Bhandari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@vadazvlogs" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Vadaz_Vlogs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ramanbhandari007" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@ramanbhandari007-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ramanbhandari7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ramanbhandari7-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
