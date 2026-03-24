@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=220&section=header&text=Raman%20Bhandari&fontSize=60&subText=Web%20Developer%20|%20Data%20Specialist&subFontSize=22&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=220&section=header&text=Raman%20Bhandari&fontSize=60&subText=Web%20Developer%20|%20Educational%20Tech%20Specialist&subFontSize=22&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,12 +11,20 @@
 
 ---
 
-### 👨‍💻 About Me
-I am the founder of **[Digital Hub Online Nepal](https://ramanbhandari.com.np)** and a dedicated **Data Specialist** with over 10 years of experience in inventory and logistics. Currently, I am expanding my expertise into **Full-Stack Web Development** to build digital tools that solve real-world problems.
+### 👨‍💻 Professional Summary
+I am a **Freelance Web Developer** and the founder of **Digital Hub Online**. I specialize in creating digital identities for educational institutions and businesses across Nepal. With over 600+ contributions and a background in data management, I build fast, reliable, and user-friendly web solutions.
 
-- 🔭 **Currently Building:** A community-focused platform for digital services.
-- 🌱 **Learning:** React.js, Node.js, and advanced Git workflows.
-- 🌍 **Experience:** Proud FIFA World Cup Qatar Volunteer & Content Creator.
+---
+
+### 🚀 Featured Web Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Digital Hub Online](https://github.com/ramanbhandari7/Digital-Hub-Online-Nepal)** | A one-stop solution for digital services in Nepal. | `HTML5` `CSS3` `JS` |
+| **[Miniland Academy](https://github.com/ramanbhandari7/minilandacademy)** | Official website for Miniland Academy English School. | `HTML5` `CSS3` |
+| **[Sarwajanik School](https://github.com/ramanbhandari7/sarwajanikschool.edu.np)** | Web portal for Shree Sarbajanik Secondary School, Morang. | `HTML5` `UI/UX` |
+| **[Saraswati Mavi](https://github.com/ramanbhandari7/saraswatimavi)** | Official website for Shree Saraswati Secondary School, Dharan. | `Web Design` |
+| **[Hema Rai Portfolio](https://github.com/ramanbhandari7/hemarai.com.np)** | Professional portfolio website for Hema Rai (Bhandari). | `Frontend` |
 
 ---
 
@@ -27,19 +35,12 @@ I am the founder of **[Digital Hub Online Nepal](https://ramanbhandari.com.np)**
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-*   🌐 **[Digital Hub Online](https://ramanbhandari.com.np)** – A facilitation portal for the Nepali community.
-*   🛠️ **[Test-Repo](https://github.com/ramanbhandari7/Test-Repo)** – My documentation and Git mastery playground.
-
----
-
-### 📊 GitHub Insights
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramanbhandari7&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanbhandari7&layout=compact&theme=radical&hide_border=true" width="45%" />
