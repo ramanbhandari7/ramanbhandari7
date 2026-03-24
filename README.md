@@ -7,7 +7,7 @@
   </video>
 </div>
 
-<!-- Social Badges with Modern Style -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/raman-bhandari-942554247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-<!-- About Me Section with Card Design -->
+<!-- About Me Section -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/>
   About Me
@@ -44,7 +44,7 @@
 </h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0">
     <tr>
       <td width="60%">
         <p>
@@ -67,7 +67,7 @@
 
 ---
 
-<!-- Featured Projects with Modern Cards -->
+<!-- Featured Projects -->
 <h2 align="center">
   🚀 Featured Projects
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
@@ -168,7 +168,7 @@
 
 ---
 
-<!-- Tech Stack with Icons -->
+<!-- Tech Stack -->
 <h2 align="center">
   🛠️ Tech Stack & Skills
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
@@ -186,7 +186,7 @@
 
 ---
 
-<!-- GitHub Stats with Modern Layout -->
+<!-- GitHub Stats -->
 <h2 align="center">
   📊 GitHub Analytics
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/>
@@ -211,14 +211,14 @@
 
 ---
 
-<!-- Achievement Badges -->
+<!-- Achievement Badges - Fixed Working Version -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ramanbhandari7&theme=radical&no-frame=true&row=1&column=7" width="95%" />
 </p>
 
 ---
 
-<!-- Connect Section with Verified Links -->
+<!-- Connect Section -->
 <h2 align="center">
   🤝 Let's Connect
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/>
@@ -262,7 +262,7 @@
 
 ---
 
-<!-- Animated Footer -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
