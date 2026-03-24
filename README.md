@@ -61,7 +61,7 @@
       <td width="40%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ramanbhandari7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&ring_color=58A6FF&hide=contribs&card_width=250" />
       </td>
-    </tr>
+     </tr>
   </table>
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
   <table border="0">
-    <tr>
+     <tr>
       <td width="50%" valign="top">
         <h3 align="center">🏫 Digital Hub Online</h3>
         <p align="center">
@@ -125,8 +125,8 @@
           </a>
         </p>
       </td>
-    </tr>
-    <tr>
+     </tr>
+     <tr>
       <td width="50%" valign="top">
         <h3 align="center">💼 Portfolio Websites</h3>
         <p align="center">
@@ -162,7 +162,7 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
       </td>
-    </tr>
+     </tr>
   </table>
 </div>
 
@@ -209,11 +209,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanbhandari7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="60%" />
 </p>
 
----
-
-<!-- Achievement Badges - Fixed Working Version -->
+<!-- Custom Stats Badges -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramanbhandari7&theme=radical&no-frame=true&row=1&column=7" width="95%" />
+  <img src="https://img.shields.io/badge/Total_Commits-600%2B-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-30%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/School_Websites-8%2B-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Years_Experience-10%2B-FFD700?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 ---
