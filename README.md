@@ -109,10 +109,10 @@
           <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=flat-square&logo=figma&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/ramanbhandari7/minilandacademy">
+          <a href="https://minilandacademy.edu.np">
             <img src="https://img.shields.io/badge/Miniland_Academy-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://github.com/ramanbhandari7/sarwajanikschool.edu.np">
+          <a href="https://sarwajanikschool.edu.np">
             <img src="https://img.shields.io/badge/Sarwajanik_School-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
@@ -134,7 +134,7 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
         <p align="center">
-          <a href="https://github.com/ramanbhandari7/hemarai.com.np">
+          <a href="https://hemarai.com.np">
             <img src="https://img.shields.io/badge/Hema_Rai_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
